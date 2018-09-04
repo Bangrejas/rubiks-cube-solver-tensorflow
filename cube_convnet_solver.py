@@ -1,6 +1,6 @@
 #----------------------------------------------------------------------
 # Matplotlib Rubik's cube simulator
-# Written by Jake Vanderplas
+# Written by Nishant Parhi
 # Adapted from cube code written by David Hogg
 #   https://github.com/davidwhogg/MagicCube
 
