@@ -423,14 +423,6 @@ class InteractiveCube(plt.Axes):
                 elif(str(j)[1]=="2"):
                     self.rotate_face(str(j)[0])
                     self.rotate_face(str(j)[0])
-
-
-
-
-
-
-
-
     def _key_press(self, event):
         """Handler for key press events"""
         if event.key == 'shift':
@@ -625,5 +617,4 @@ if __name__ == '__main__':
     #c.rotate_face('U')
     c.draw_interactive()
     #c.rotate_face('U')
-
     plt.show()
