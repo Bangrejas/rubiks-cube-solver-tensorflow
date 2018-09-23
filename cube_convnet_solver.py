@@ -596,8 +596,7 @@ if __name__ == '__main__':
     c = Cube(N)
 
 
-    # # do a 3-corner swap
-    # for j in scramble_instructions:
+    
     #     if(len(str(j))==1):
     #         c.rotate_face(str(j)[0])
     #     else:
