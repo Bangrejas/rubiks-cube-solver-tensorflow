@@ -22,7 +22,7 @@ To run and play with the cube/shuffle it yourself, clone this repository :
 
 ```
 git clone https://github.com/nishantparhi/rubiks-cube-solver-tensorflow
-cd rubiks_cube_convnet
+cd rubiks-cube-solver-tensorflow
 python MagicCube/code/cube_convnet_solver.py
 ```
 You can shuffle using the keyboard and have it solve your own cube. There is a hard-coded reset if you've gone too far and the network can't solve it. This simply retraces back the steps to the initial solved position.
