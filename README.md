@@ -21,7 +21,7 @@ For MagicCuber, I provide the .zip of their github repo I used at the time. I su
 To run and play with the cube/shuffle it yourself, clone this repository :
 
 ```
-git clone https://github.com/jerpint/rubiks_cube_convnet/edit/master/README.md
+git clone https://github.com/nishantparhi/rubiks-cube-solver-tensorflow
 cd rubiks_cube_convnet
 python MagicCube/code/cube_convnet_solver.py
 ```
