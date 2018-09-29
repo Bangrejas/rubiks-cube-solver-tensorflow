@@ -578,9 +578,7 @@ if __name__ == '__main__':
 
 
     
-    #     if(len(str(j))==1):
-    #         c.rotate_face(str(j)[0])
-    #     else:
+   
     #         if(str(j)[1]=="'"):
     #             c.rotate_face(str(j)[0],-1)
     #             #c.rotate_face(j)
