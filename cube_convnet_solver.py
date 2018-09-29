@@ -576,22 +576,6 @@ if __name__ == '__main__':
 
     c = Cube(N)
 
-
-    
-   
-    #         if(str(j)[1]=="'"):
-    #             c.rotate_face(str(j)[0],-1)
-    #             #c.rotate_face(j)
-    #         elif(str(j)[1]=="2"):
-    #             c.rotate_face(str(j)[0])
-    #             c.rotate_face(str(j)[0])
-    #c.rotate_face('D')
-    #c.rotate_face('R', -1)
-    #c.rotate_face('U', -1)
-    #c.rotate_face('R')
-    #c.rotate_face('D', -1)
-    #c.rotate_face('R', -1)
-    #c.rotate_face('U')
     #c.rotate_face('U')
     c.draw_interactive()
     #c.rotate_face('U')
