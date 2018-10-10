@@ -64,7 +64,7 @@ def generate_game(max_moves = max_moves):
     for j in range(number_moves):
         formula.append(possible_moves[randint(0,len(possible_moves)-1)])
         
-    #my_formula = pc.Formula("R U R' U' D' R' F R2 U' D D R' U' R U R' D' F'")
+    #my_formula =("R U R' U' D' R' F R2 U' D D R' U' R U R' D' F'")
 
     my_formula = pc.Formula(formula)
 
