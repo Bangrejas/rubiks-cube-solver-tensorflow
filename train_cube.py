@@ -23,8 +23,7 @@ possible_moves = ["R","R'","R2","U","U'","U2","F","F'","F2","D","D'","D2","B","B
 
 def sol2cat(solution):
     # It transform solution to one hot vector encoding
-    # first map move to number, then genereate one hot encoding
-    # using keras utils
+
     
     global possible_moves
     sol_tmp = []
