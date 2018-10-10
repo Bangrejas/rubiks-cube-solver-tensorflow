@@ -94,7 +94,7 @@ def generate_N_games(N=10,max_moves=max_moves):
     return scrambled_cubes,solutions
 
 def generate_action_space(number_games=100):
-    D = [] # action space
+    D = []
     states_hist = []
     game_count = 0
     play_game = True
